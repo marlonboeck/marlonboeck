@@ -6,7 +6,7 @@
 <div style="display: inline_block">
 🚀&nbspTech Skills: <br><br>
           
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,git,vscode&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,bash,git,github,notion&perline=4)](https://skillicons.dev)
 
   
 ##
