@@ -12,7 +12,7 @@
 ##
 
 <div> 
-💻💿&nbspSystems: <br><br>
+💻💿&nbspOperating Systems: <br><br>
 
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,mint,debian&perline=5)](https://skillicons.dev)
 
