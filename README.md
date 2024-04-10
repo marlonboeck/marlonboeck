@@ -4,19 +4,19 @@
 - 👨🏻‍💻 Atuando como Analista de TI
 - 📚 Estudando programação Web
 
-<br>
+##
 
-## 🚀 Tech Skills:
+### 🚀 Tech Skills:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,bash,git,github,notion&perline=5)](https://skillicons.dev)
 
-<br>
+##
 
-## 💻💿 Operating Systems:
+### 💻💿 Operating Systems:
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,mint,debian&perline=5)](https://skillicons.dev)
 
-<br>
+##
 
-## 📧 Contact:
+### 📧 Contact:
   
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/marlon-boeck)
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:marlonfbv@gmail.com)
